@@ -1,0 +1,22 @@
+.span-client--popup-mobile,
+.span-tel--popup-mobile,
+.input-submit--popup-mobile {
+    top: 18px;
+}
+
+.fld-input.NoWrap.actAsDiv.clearfix.grpelem#u5606-4,
+.fld-input.NoWrap.actAsDiv.clearfix.grpelem#u5599-4,
+.submit-btn.NoWrap.transition.grpelem#u5601-17,
+.fld-input.NoWrap.actAsDiv.clearfix.grpelem#u5934-4,
+.fld-input.NoWrap.actAsDiv.clearfix.grpelem#u5930-4,
+.submit-btn.NoWrap.transition.grpelem#u5932-17 {
+    top: 250px;
+    left: 44px;
+}
+
+.fld-input.NoWrap.actAsDiv.clearfix.grpelem#u6237-4,
+.fld-input.NoWrap.actAsDiv.clearfix.grpelem#u6229-4,
+.submit-btn.NoWrap.grpelem#u6231-17 {
+    top: 240px;
+    left: 132px;
+}

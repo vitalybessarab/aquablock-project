@@ -1,0 +1,69 @@
+.form-first,
+#u4366-17 {
+    left: 130px;
+    top: 280px;
+}
+
+.form-second,
+#u6920-17 {
+    top: 318px;
+    left: 129px;
+}
+
+#u4366-17,
+#u6920-17 {
+    left: 641px;
+}
+
+#widgetu4820 {
+    height: 120px;
+}
+
+#widgetu4826 {
+    left: 355px;
+    height: 120px;
+}
+
+.form-third {
+    top: 29px;
+    left: 129px;
+}
+
+#u4819-17 {
+    left: 632px;
+}
+
+#u4829-4 {
+    left: 29px;
+}
+
+.span-client--popup,
+.span-tel--popup,
+.input-submit--popup {
+    top: 21px;
+    left: 47px;
+}
+
+input[type="text"].input-client--popup::-webkit-input-placeholder,
+input[type="tel"].input-tel--popup::-webkit-input-placeholder
+{ /* Chrome/Opera/Safari */
+    color: #474747;
+}
+
+input[type="text"].input-client--popup::-moz-placeholder,
+input[type="tel"].input-tel--popup::-moz-placeholder
+{ /* Firefox 19+ */
+    color: #474747;
+}
+
+input[type="text"].input-client--popup:-ms-input-placeholder,
+input[type="tel"].input-tel--popup:-ms-input-placeholder
+{ /* IE 10+ */
+    color: #474747;
+}
+
+input[type="text"].input-client--popup:-moz-placeholder,
+input[type="tel"].input-tel--popup:-moz-placeholder
+{ /* Firefox 18- */
+    color: #474747;
+}
